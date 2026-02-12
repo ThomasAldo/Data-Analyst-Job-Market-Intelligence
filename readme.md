@@ -11,13 +11,13 @@
 
 
 </p>
-#📊 Project Overview
+# 📊 Project Overview
 
 The Job Market Intelligence Dashboard is an end-to-end Business Intelligence solution that transforms raw job posting data into strategic insights using Power BI, SQL, and Python.
 
 This project simulates a real-world analytics pipeline designed to help stakeholders understand hiring demand, salary benchmarks, and skill trends across industries.
 
-#💼 Business Problem
+# 💼 Business Problem
 
 The modern hiring ecosystem generates massive data volumes daily. However:
 
