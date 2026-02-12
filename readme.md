@@ -11,13 +11,13 @@
 
 
 </p>
-📊 Project Overview
+#📊 Project Overview
 
 The Job Market Intelligence Dashboard is an end-to-end Business Intelligence solution that transforms raw job posting data into strategic insights using Power BI, SQL, and Python.
 
 This project simulates a real-world analytics pipeline designed to help stakeholders understand hiring demand, salary benchmarks, and skill trends across industries.
 
-💼 Business Problem
+#💼 Business Problem
 
 The modern hiring ecosystem generates massive data volumes daily. However:
 
@@ -31,9 +31,9 @@ Market hiring patterns remain fragmented
 
 Without centralized analytics, workforce decisions rely heavily on assumptions.
 
-✅ Business Solution
+#✅ Business Solution
 
-This dashboard converts unstructured job posting data into:
+##This dashboard converts unstructured job posting data into:
 
 ✔ Hiring trend intelligence
 ✔ Skill demand analysis
@@ -41,17 +41,35 @@ This dashboard converts unstructured job posting data into:
 ✔ Geographic hiring distribution
 ✔ Industry growth pattern analysis
 
-🎥 Dashboard Showcase
-🌍 Market Overview
-![Overview Dashboard](Screenshot 2026-02-12 151946.png)
+---
 
-🧠 Skills Demand Analysis
-![Skill Demand](Screenshot 2026-02-12 152011.png)
+# 📊 Dashboard Showcase
 
-🌎 Geographic Hiring Insights
-![Geography](Screenshot 2026-02-12 152040.png)
+## 🌍 Market Overview
 
-🎯 Skill Trends
+<p align="center">
+  <img src="docs/overview.png" width="900">
+</p>
+
+---
+
+## 🧠 Skills Demand Analysis
+
+<p align="center">
+  <img src="docs/skill_demand.png" width="900">
+</p>
+
+---
+
+## 🌎 Geographic Hiring Insights
+
+<p align="center">
+  <img src="docs/geography.png" width="900">
+</p>
+
+---
+
+#🎯 Skill Trends
 
 Identifies fastest growing technologies
 
@@ -59,7 +77,7 @@ Detects emerging industry skill requirements
 
 Highlights multi-skill salary advantages
 
-💵 Salary Intelligence
+#💵 Salary Intelligence
 
 Compares salaries across job roles
 
@@ -67,13 +85,13 @@ Reveals high-paying skill combinations
 
 Identifies regional salary variations
 
-🌍 Hiring Hotspots
+#🌍 Hiring Hotspots
 
 Maps job concentration across locations
 
 Identifies regional hiring growth
 
-📊 Industry Hiring Growth
+#📊 Industry Hiring Growth
 
 Tracks hiring expansion across sectors
 
@@ -89,7 +107,7 @@ Pandas
 
 NumPy
 
-🗄 Database Management
+#🗄 Database Management
 
 Microsoft SQL Server
 
@@ -97,7 +115,7 @@ Advanced Query Optimization
 
 Analytical Data Modeling
 
-📊 Visualization & BI
+#📊 Visualization & BI
 
 Power BI
 
@@ -113,15 +131,15 @@ Git
 
 GitHub
 
-🔄 Project Workflow
+#🔄 Project Workflow
 flowchart LR
 A[Raw Job Data] --> B[Data Cleaning - Python]
 B --> C[SQL Data Modeling]
 C --> D[Power BI Dashboard]
 D --> E[Business Insights]
 
-📂 Project Structure
-Job-Market-Intelligence
+#📂 Project Structure
+##Job-Market-Intelligence
 │
 ├── data/
 │   ├── sample_data/
@@ -136,7 +154,7 @@ Job-Market-Intelligence
 │
 └── README.md
 
-📊 Business Questions Answered
+#📊 Business Questions Answered
 
 ✔ Which skills are most demanded in the market?
 ✔ Which job roles offer highest salaries?
@@ -152,7 +170,7 @@ Supports salary negotiation
 
 Guides career path planning
 
-🏢 For Recruiters
+##🏢 For Recruiters
 
 Identifies hiring demand gaps
 
@@ -160,13 +178,13 @@ Supports compensation benchmarking
 
 Enhances workforce planning
 
-🎓 For Educational Institutions
+##🎓 For Educational Institutions
 
 Aligns curriculum with industry demand
 
 Supports workforce readiness initiatives
 
-🚀 Future Enhancements
+##🚀 Future Enhancements
 
 Real-time job market data integration
 
@@ -176,7 +194,7 @@ Skill recommendation engine
 
 Hiring trend forecasting
 
-📥 Dataset Information
+##📥 Dataset Information
 
 Due to GitHub file size limitations, full dataset is excluded.
 
@@ -201,7 +219,7 @@ Launch Dashboard
 
 Open Power BI file inside /dashboards
 
-📊 Dashboard Design Highlights
+##📊 Dashboard Design Highlights
 
 ✔ Interactive Filters
 ✔ KPI Cards
@@ -210,15 +228,13 @@ Open Power BI file inside /dashboards
 ✔ Geographic Mapping
 ✔ Dynamic Salary Analysis
 
-👨‍💻 Author
+#👨‍💻 Author
 
-Thomas Aldo
+##Thomas Aldo
 Computer Science Engineer | Data Analyst
 
 📧 thomasaldo.official@gmail.com
 🔗 LinkedIn : Thomas Aldo
-🌐 Portfolio
-
 ⭐ Project Highlights
 
 ✔ Real-world hiring dataset
@@ -226,7 +242,7 @@ Computer Science Engineer | Data Analyst
 ✔ Business Intelligence Storytelling
 ✔ Recruiter-Ready Portfolio Project
 
-📜 License
+##📜 License
 
 This project is developed for educational and portfolio demonstration purposes.
 
