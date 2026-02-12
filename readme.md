@@ -74,7 +74,7 @@ Without centralized analytics, workforce decisions rely heavily on assumptions.
 
 ---
 
-# 🎯 Skill Trends
+## 🎯 Skill Trends
 
 Identifies fastest growing technologies
 
@@ -82,7 +82,7 @@ Detects emerging industry skill requirements
 
 Highlights multi-skill salary advantages
 
-# 💵 Salary Intelligence
+## 💵 Salary Intelligence
 
 Compares salaries across job roles
 
@@ -90,20 +90,22 @@ Reveals high-paying skill combinations
 
 Identifies regional salary variations
 
-# 🌍 Hiring Hotspots
+## 🌍 Hiring Hotspots
 
 Maps job concentration across locations
 
 Identifies regional hiring growth
 
-# 📊 Industry Hiring Growth
+## 📊 Industry Hiring Growth
 
 Tracks hiring expansion across sectors
 
 Highlights declining job domains
 
 </details>
+
 🛠 Technology Stack
+
 👨‍💻 Data Processing
 
 Python
@@ -112,7 +114,7 @@ Pandas
 
 NumPy
 
-# 🗄 Database Management
+## 🗄 Database Management
 
 Microsoft SQL Server
 
@@ -120,7 +122,7 @@ Advanced Query Optimization
 
 Analytical Data Modeling
 
-#📊 Visualization & BI
+## 📊 Visualization & BI
 
 Power BI
 
@@ -130,37 +132,49 @@ Drill-Down Analytics
 
 KPI Monitoring
 
-⚙ Version Control
+## ⚙ Version Control
 
 Git
 
 GitHub
 
-# 🔄 Project Workflow
+## 🔄 Project Workflow
 
 flowchart LR
+
 A[Raw Job Data] --> B[Data Cleaning - Python]
+
 B --> C[SQL Data Modeling]
+
 C --> D[Power BI Dashboard]
+
 D --> E[Business Insights]
+
 
 # 📂 Project Structure
 ## Job-Market-Intelligence
+
 │
 ├── data/
+
 │   ├── sample_data/
+
 │
 ├── sql_queries/
+
 │
 ├── notebooks/
+
 │
 ├── docs/
+
 │
 ├── dashboards/
+
 │
 └── README.md
 
-# 📊 Business Questions Answered
+## 📊 Business Questions Answered
 
 ✔ Which skills are most demanded in the market?
 
