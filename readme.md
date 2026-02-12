@@ -11,6 +11,7 @@
 
 
 </p>
+
 # 📊 Project Overview
 
 The Job Market Intelligence Dashboard is an end-to-end Business Intelligence solution that transforms raw job posting data into strategic insights using Power BI, SQL, and Python.
@@ -31,14 +32,18 @@ Market hiring patterns remain fragmented
 
 Without centralized analytics, workforce decisions rely heavily on assumptions.
 
-#✅ Business Solution
+# ✅ Business Solution
 
-##This dashboard converts unstructured job posting data into:
+## This dashboard converts unstructured job posting data into:
 
 ✔ Hiring trend intelligence
+
 ✔ Skill demand analysis
+
 ✔ Salary benchmarking insights
+
 ✔ Geographic hiring distribution
+
 ✔ Industry growth pattern analysis
 
 ---
@@ -69,7 +74,7 @@ Without centralized analytics, workforce decisions rely heavily on assumptions.
 
 ---
 
-#🎯 Skill Trends
+# 🎯 Skill Trends
 
 Identifies fastest growing technologies
 
@@ -77,7 +82,7 @@ Detects emerging industry skill requirements
 
 Highlights multi-skill salary advantages
 
-#💵 Salary Intelligence
+# 💵 Salary Intelligence
 
 Compares salaries across job roles
 
@@ -85,13 +90,13 @@ Reveals high-paying skill combinations
 
 Identifies regional salary variations
 
-#🌍 Hiring Hotspots
+# 🌍 Hiring Hotspots
 
 Maps job concentration across locations
 
 Identifies regional hiring growth
 
-#📊 Industry Hiring Growth
+# 📊 Industry Hiring Growth
 
 Tracks hiring expansion across sectors
 
@@ -107,7 +112,7 @@ Pandas
 
 NumPy
 
-#🗄 Database Management
+# 🗄 Database Management
 
 Microsoft SQL Server
 
@@ -131,15 +136,16 @@ Git
 
 GitHub
 
-#🔄 Project Workflow
+# 🔄 Project Workflow
+
 flowchart LR
 A[Raw Job Data] --> B[Data Cleaning - Python]
 B --> C[SQL Data Modeling]
 C --> D[Power BI Dashboard]
 D --> E[Business Insights]
 
-#📂 Project Structure
-##Job-Market-Intelligence
+# 📂 Project Structure
+## Job-Market-Intelligence
 │
 ├── data/
 │   ├── sample_data/
@@ -154,11 +160,14 @@ D --> E[Business Insights]
 │
 └── README.md
 
-#📊 Business Questions Answered
+# 📊 Business Questions Answered
 
 ✔ Which skills are most demanded in the market?
+
 ✔ Which job roles offer highest salaries?
+
 ✔ Which locations show highest hiring growth?
+
 ✔ Which industries are expanding fastest?
 
 💡 Business Impact
@@ -170,7 +179,7 @@ Supports salary negotiation
 
 Guides career path planning
 
-##🏢 For Recruiters
+## 🏢 For Recruiters
 
 Identifies hiring demand gaps
 
@@ -178,13 +187,13 @@ Supports compensation benchmarking
 
 Enhances workforce planning
 
-##🎓 For Educational Institutions
+## 🎓 For Educational Institutions
 
 Aligns curriculum with industry demand
 
 Supports workforce readiness initiatives
 
-##🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Real-time job market data integration
 
@@ -194,7 +203,8 @@ Skill recommendation engine
 
 Hiring trend forecasting
 
-##📥 Dataset Information
+
+## 📥 Dataset Information
 
 Due to GitHub file size limitations, full dataset is excluded.
 
@@ -219,7 +229,9 @@ Launch Dashboard
 
 Open Power BI file inside /dashboards
 
-##📊 Dashboard Design Highlights
+
+
+## 📊 Dashboard Design Highlights
 
 ✔ Interactive Filters
 ✔ KPI Cards
@@ -228,9 +240,11 @@ Open Power BI file inside /dashboards
 ✔ Geographic Mapping
 ✔ Dynamic Salary Analysis
 
-#👨‍💻 Author
 
-##Thomas Aldo
+
+# 👨‍💻 Author
+
+## Thomas Aldo
 Computer Science Engineer | Data Analyst
 
 📧 thomasaldo.official@gmail.com
@@ -238,11 +252,16 @@ Computer Science Engineer | Data Analyst
 ⭐ Project Highlights
 
 ✔ Real-world hiring dataset
+
 ✔ End-to-End Analytics Pipeline
+
 ✔ Business Intelligence Storytelling
+
 ✔ Recruiter-Ready Portfolio Project
 
-##📜 License
+
+
+## 📜 License
 
 This project is developed for educational and portfolio demonstration purposes.
 
