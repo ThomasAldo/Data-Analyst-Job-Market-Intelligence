@@ -12,11 +12,15 @@
 
 </p>
 
+---
+
 # 📊 Project Overview
 
 The Job Market Intelligence Dashboard is an end-to-end Business Intelligence solution that transforms raw job posting data into strategic insights using Power BI, SQL, and Python.
 
 This project simulates a real-world analytics pipeline designed to help stakeholders understand hiring demand, salary benchmarks, and skill trends across industries.
+
+---
 
 # 💼 Business Problem
 
@@ -31,6 +35,8 @@ Salary benchmarks vary across industries and locations
 Market hiring patterns remain fragmented
 
 Without centralized analytics, workforce decisions rely heavily on assumptions.
+
+---
 
 # ✅ Business Solution
 
@@ -248,22 +254,29 @@ Open Power BI file inside /dashboards
 ## 📊 Dashboard Design Highlights
 
 ✔ Interactive Filters
+
 ✔ KPI Cards
+
 ✔ Multi-Page Navigation
+
 ✔ Drill-Down Capability
+
 ✔ Geographic Mapping
+
 ✔ Dynamic Salary Analysis
 
+
+---
 
 
 # 👨‍💻 Author
 
 ## Thomas Aldo
-Computer Science Engineer | Data Analyst
+### Computer Science Engineer | Data Analyst
 
-📧 thomasaldo.official@gmail.com
-🔗 LinkedIn : Thomas Aldo
-⭐ Project Highlights
+### 📧 thomasaldo.official@gmail.com
+### 🔗 LinkedIn : https://www.linkedin.com/in/thomas-aldo-88a006237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 
 ✔ Real-world hiring dataset
 
@@ -273,7 +286,7 @@ Computer Science Engineer | Data Analyst
 
 ✔ Recruiter-Ready Portfolio Project
 
-
+---
 
 ## 📜 License
 
@@ -281,3 +294,5 @@ This project is developed for educational and portfolio demonstration purposes.
 
 <p align="center"> ⭐ If you found this project valuable, consider starring the repository! </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/> </p>
+
+---
